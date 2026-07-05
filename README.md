@@ -18,7 +18,7 @@ radarr-upgrade-filter is a tool designed to help manage and filter movie downloa
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/radarr-upgrade-filter.git
+   git clone https://github.com/kaneulanus/radarr-upgrade-filter.git
    cd radarr-upgrade-filter
    
 2.Copy the example environment file and edit it to match your setup:
