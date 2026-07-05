@@ -20,3 +20,10 @@ radarr-upgrade-filter is a tool designed to help manage and filter movie downloa
    ```bash
    git clone https://github.com/yourusername/radarr-upgrade-filter.git
    cd radarr-upgrade-filter
+2.Copy the example environment file and edit it to match your setup:
+   ```bash
+   cp .env.example .env
+   nano .env
+3.Build and run the Docker containers:
+   ```bash
+   docker-compose up -d --build
